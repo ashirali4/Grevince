@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "392597135007",
+    "firebase_url": "https://grevince-e5e8b.firebaseio.com",
+    "project_id": "grevince-e5e8b",
+    "storage_bucket": "grevince-e5e8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392597135007:android:9dd5b58e9965e7b00c8caa",
+        "android_client_info": {
+          "package_name": "com.example.grevince"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392597135007-bhg2u3mmihchj38gdl2ikobim0u13hd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grevince",
+            "certificate_hash": "e6807b588c06f0aeb9fe2ff89b2b21109d371bbd"
+          }
+        },
+        {
+          "client_id": "392597135007-uoq740sgd3593n3hr6utrhmkpifn8dil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0oAmEkGCYNIi6urNmcIrnP98IoFkyF7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392597135007-uoq740sgd3593n3hr6utrhmkpifn8dil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Grevince</string>
+    <string-array name="spinnerItems">
+
+        <item>DSA</item>
+        <item>Exam Department</item>
+        <item>Library</item>
+        <item>Account Office</item>
+        <item>HOD</item>
+    </string-array>
+    <string-array name="cspinnerItems">
+
+        <item>General Application</item>
+        <item>Suggestion</item>
+        <item>Fee</item>
+        <item>Exams</item>
+        <item>Department</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="thisisi">thisisi</string>
+</resources>
