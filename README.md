@@ -20,6 +20,6 @@ Grevince is a platform for the management of the complains.(For Colleges and Uni
 
 <h2> Website Designs </h2>
 
-<img src=khg.jpg > 
-<img src=nk.jpg > 
-<img src=ukghj.jpg > 
+<img src=khg.png > 
+<img src=nk.png > 
+<img src=ukghj.png > 
