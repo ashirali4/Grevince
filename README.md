@@ -13,7 +13,7 @@ Grevince is a platform for the management of the complains.(For Colleges and Uni
 <h2> Mockup </h2>
 <img src=mockup2.PNG > 
 <br>
-<h2> Some Screens Android</h2>
+<h2> Android Screenshots</h2>
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src=signin.png width="200" height="410"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src=dashboard.png width="200" height="410"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src=chatbot.png width="200" height="410"> 
