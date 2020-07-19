@@ -11,7 +11,7 @@ Grevince is a platform for the management of the complains.(For Colleges and Uni
  
  <br>
 <h2> Mockup </h2>
-<img src=mockup.PNG > 
+<img src=mockup1.PNG > 
 <br>
 <h2> Some Screens Android</h2>
 <br>
